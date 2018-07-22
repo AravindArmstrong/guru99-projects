@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="11563" started-at="2018-07-21T05:53:24Z" finished-at="2018-07-21T05:53:35Z">
+  <suite name="Default suite" duration-ms="11252" started-at="2018-07-21T09:32:53Z" finished-at="2018-07-21T09:33:04Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="11563" started-at="2018-07-21T05:53:24Z" finished-at="2018-07-21T05:53:35Z">
-      <class name="guru99TestNgTest.EnhancementOfScript">
-        <test-method status="PASS" signature="testEnhancement()[pri:0, instance:guru99TestNgTest.EnhancementOfScript@6a024a67]" name="testEnhancement" duration-ms="11544" started-at="2018-07-21T11:23:24Z" finished-at="2018-07-21T11:23:35Z">
+    <test name="Default test" duration-ms="11252" started-at="2018-07-21T09:32:53Z" finished-at="2018-07-21T09:33:04Z">
+      <class name="guru99TestNgTest.InvalidIdAndPassword">
+        <test-method status="PASS" signature="InvalidUserandPassword()[pri:0, instance:guru99TestNgTest.InvalidIdAndPassword@6a024a67]" name="InvalidUserandPassword" duration-ms="11229" started-at="2018-07-21T15:02:53Z" finished-at="2018-07-21T15:03:04Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testEnhancement -->
-      </class> <!-- guru99TestNgTest.EnhancementOfScript -->
+        </test-method> <!-- InvalidUserandPassword -->
+      </class> <!-- guru99TestNgTest.InvalidIdAndPassword -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
